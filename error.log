@@ -1,0 +1,8 @@
+[2023-04-23 17:02:52 +0000] [2512] [INFO] Starting gunicorn 20.1.0
+[2023-04-23 17:02:52 +0000] [2512] [INFO] Listening at: http://127.0.0.1:8000 (2512)
+[2023-04-23 17:02:52 +0000] [2512] [INFO] Using worker: sync
+[2023-04-23 17:02:52 +0000] [2515] [INFO] Booting worker with pid: 2515
+[2023-04-24 08:12:43 +0000] [2515] [INFO] Worker exiting (pid: 2515)
+[2023-04-24 08:12:43 +0000] [2512] [INFO] Handling signal: term
+[2023-04-24 08:12:43 +0000] [2512] [WARNING] Worker with pid 2515 was terminated due to signal 15
+[2023-04-24 08:12:43 +0000] [2512] [INFO] Shutting down: Master
